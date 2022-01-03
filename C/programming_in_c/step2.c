@@ -1,3 +1,4 @@
+//Introducing C
 #include <stdio.h>
 #include <math.h>
 //this is my first CSE 251 C program.
