@@ -1,0 +1,85 @@
+/*
+*readline(), strlen(), strcpy()
+*
+*
+*
+*/
+
+C1: A Tutorial Introduction
+
+useful for writing compilers and operating systems
+
+expressions: operators + operands
+
+##############################################################################
+1.1 Getting Started
+
+program = functions(statements) + variables
+
+escape sequence
+
+##############################################################################
+1.2 Variables and Arithmetic Expressions
+
+comments, declarations, variables, arithmetic expressions, loops and formatted output.
+
+basic data types: char, short, long, double
+
+%3d, "3" is for the width, right-justified
+
+##############################################################################
+1.3 The For Statement
+
+##############################################################################
+1.4	Symbolic Constants
+
+#define name replacement text
+
+##############################################################################
+1.5	Character Input and Output
+
+a text stream is a sequence of characters divided into lines.
+each line consists of zero or more characters followed by a newline character.
+
+getchar(c), putchar(c)
+
+assignment like c = getchar() is an expression and has a value, which equals the left hand side after the assignment.
+
+";", the isolated semicolon is called a null statement
+
+'a', is a character constant
+
+##############################################################################
+1.6	Arrays
+
+int a[10] in C/C++
+int[] a = new int[10] in Java
+
+//word count, break count, other count
+
+##############################################################################
+1.7	Functions
+
+##############################################################################
+1.8	Arguments - Call by Value
+
+passed by value, but not for arrays
+
+##############################################################################
+1.9	Character Arrays
+
+every text line has at least one character, even a line containing only a newline has length 1.
+
+##############################################################################
+1.10 External Variables and Scope
+
+extern 
+
+in fact, common practic is to place definitions of all external bariables at the beginning of the source file, and omit all extern declarations.
+
+
+##############################################################################
+
+
+
+
